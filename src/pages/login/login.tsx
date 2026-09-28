@@ -21,8 +21,8 @@ function Login() {
       <div className="bg-white shadow-xl rounded-2xl w-full max-w-md p-8 border border-gray-100">
         <div className="flex justify-center mb-5">
           <img
-            src="./public/logo alfa.png"
-            alt="Logo Alfa"
+            src="./public/logo-alfa.png"
+            alt="Logo-Alfa"
             className="w-20 h-20 object-contain"
           />
         </div>

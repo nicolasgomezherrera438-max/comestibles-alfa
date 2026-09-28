@@ -220,7 +220,7 @@ function Home() {
 
               <img
 
-                src="/logo alfa.png"
+                src="/logo-alfa.png"
 
                 alt="Logo Alfa"
 
